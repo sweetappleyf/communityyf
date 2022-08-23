@@ -47,5 +47,4 @@
         update user set password = #{password} where id = #{id}
     </update>
 
-
 </mapper>

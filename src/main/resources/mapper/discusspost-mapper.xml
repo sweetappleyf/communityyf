@@ -47,7 +47,4 @@
         update discuss_post set comment_count = #{commentCount} where id = #{id}
     </update>
 
-
-
-
 </mapper>
